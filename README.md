@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2f1f,50:1e5631,100:3a7d44&height=220&section=header&text=Henrique%20Chimelo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Software%20%C2%B7%20Dev%20no%20Ex%C3%A9rcito%20Brasileiro&descAlignY=58&descSize=18&animation=fadeIn)](https://github.com/h3nrique-beep)
+[![Header](banner.png "Henrique Chimelo")](https://github.com/h3nrique-beep)
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> >_ Olá, eu sou o Henrique
 
@@ -27,5 +27,3 @@ Desenvolvo sistemas internos que resolvem problemas reais do dia a dia, do banco
 <div align="center">
   <a href="https://www.instagram.com/henriquechimelo/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3a7d44,50:1e5631,100:0f2f1f&height=100&section=footer)](https://github.com/h3nrique-beep)
