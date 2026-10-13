@@ -1,4 +1,4 @@
-[![Header](banner.png "Henrique Chimelo")](https://github.com/h3nrique-beep)
+[![Header](banner-pixel.png "Henrique Chimelo")](https://github.com/h3nrique-beep)
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> >_ Olá, eu sou o Henrique
 
